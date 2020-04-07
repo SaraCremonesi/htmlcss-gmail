@@ -1,0 +1,94 @@
+.main-wrapper {
+  width: 50%;
+  margin: auto;
+}
+
+/* immagine */
+.header1 img {
+  weight: 100px;
+  height: 100px;
+  vertical-align: middle;
+}
+
+/* sfondo */
+body {
+  background-image: url('../img/legno.jpg');
+}
+
+/* linea */
+.linea {
+  border-bottom: 1px solid white;
+  margin-left: 0.1%;
+  margin-right: 0.1%;
+}
+
+/* testo del logo */
+.text-logo {
+font-size: 25px;
+color: white;
+}
+
+/* testo mail non lette */
+.t {
+  font-size: 25px;
+  color: white;
+  margin-top: 18px;
+  margin-bottom: 16px;
+}
+
+/* numero */
+.numero {
+display: inline-block;
+background: orange;
+border-radius: 50%;
+padding: 10px;
+}
+
+/* oggetto */
+.oggetto {
+  font-weight: bold;
+  color: black;
+}
+
+/* caratteristiche mail */
+.mail {
+  background: lightgrey;
+  padding-bottom: 2px;
+  border: 1px solid black;
+}
+
+/* carattere speciale stella */
+.stella {
+  color: black;
+}
+
+/* testo della mail */
+.testo {
+  color: grey;
+}
+
+/* corpo mail */
+.corpo {
+  border: 1px solid black;
+}
+
+/* mail non letta */
+.non-letta {
+  background: white;
+}
+
+/* footer */
+.footer {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 150%;
+  line-height: 1px;
+}
+
+/* caratteristiche testo footer */
+.f {
+  font-style: italic;
+  font-size: 15px;
+  font-weight: normal;
+}
